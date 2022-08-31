@@ -6,8 +6,8 @@
 <h1 align="center">Hi 👋, I'm Oyinlola, a self-taught developer, a chess player and a music freak Oyinlola</h1>
 <h3 align="center">Unique web1</h3>
 
-<div>
-  <div align="left">
+
+
 - 🔭 I’m currently working on **file system on browser**
 
 - 👯 I’m looking to collaborate on **Any projects.**
@@ -17,9 +17,8 @@
 - 👨‍💻 Some of my projects are available at **https://www.gitshowcase.com/uniqueweb1**
 
 - ⚡ Fun fact **Easy going, awesome to be with**
-    </div>
-- <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="right" />
-</div>
+
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="center" />
 
 <h1 align="center">My Skills</h1>
 
@@ -27,10 +26,14 @@
 ## Frontend
 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width = '40' height = '40'/> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width = '40' height = '40'/> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = '40' height = '40'/> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width = '40' height = '40'/> <img src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width = '40' height = '40'/>
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width = '40' height = '40'/>
 
 ## Devops
 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = '40' height = '40'/>
+
+## Database
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width = '40' height = '40'/>
 
 ## Baas
 
