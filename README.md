@@ -1,4 +1,5 @@
-[my profile](https://user-images.githubusercontent.com/70485142/187787942-3b9dcf49-ac1b-44d0-beef-c3ec7e99df2c.jpg)
+![my profile](https://user-images.githubusercontent.com/70485142/187792680-d67dc784-77af-4ac2-9112-b945f9569360.jpg)
+
 <div align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; margin-left: 0px;margin-right: 0px;" /> </div>
 
 
