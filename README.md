@@ -1,4 +1,4 @@
-![my profile](https://user-images.githubusercontent.com/70485142/187792680-d67dc784-77af-4ac2-9112-b945f9569360.jpg)
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="center" />
 
 <div align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; margin-left: 0px;margin-right: 0px;" /> </div>
 
@@ -17,8 +17,6 @@
 - 👨‍💻 Some of my projects are available at **https://www.gitshowcase.com/uniqueweb1**
 
 - ⚡ Fun fact **Easy going, awesome to be with**
-
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="center" />
 
 <h1 align="center">My Skills</h1>
 
