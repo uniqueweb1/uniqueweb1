@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **oyinlolaidris7@gmail.com**
 
-- 👨‍💻 Some of my projects are available at **https://www.gitshowcase.com/uniqueweb1**
+- 👨‍💻 
 
 - ⚡ Fun fact **Easy going, awesome to be with**
 
