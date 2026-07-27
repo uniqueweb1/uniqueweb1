@@ -3,14 +3,15 @@
 <div align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; margin-left: 0px;margin-right: 0px;" /> </div>
 
 
-<h1 align="center">Hi 👋, I'm Oyinlola, a self-taught developer, a chess player and a music freak Oyinlola</h1>
+<h1 align="center">Hi 👋, I'm Oyinlola Idris, a self-taught developer, a Football and Table-Tennis  player and a freak For knowledge </h1>
+
 <h3 align="center">Unique web1</h3>
 
 
 
 - 🔭 I’m currently working on **file system on browser**
 
-- 👯 I’m looking to collaborate on **Any projects.**
+- 👯 I’m looking to collaborate on **Advance level school management system.**
 
 - 📫 How to reach me **oyinlolaidris7@gmail.com**
 
