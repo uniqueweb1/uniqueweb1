@@ -85,12 +85,7 @@
     <span>Linux</span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
     <span>AWS</span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-### 📊 GitHub Activity & Achievements
-<p align="center">
-  <img src="https://img.shields.io/github/followers/uniqueweb1?label=Followers&style=for-the-badge&color=2563eb" alt="Followers" />
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome" />
-  <img src="https://img.shields.io/github/repo-size/uniqueweb1/uniqueweb1?label=Profile%20Repo&style=for-the-badge&color=0f172a" alt="Repo Size" />
-</p>original-wordmark.svg" width="40" height="40" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
 </p>
 
 ---
