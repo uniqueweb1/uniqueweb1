@@ -37,28 +37,28 @@
 
 #### **Frontend Development**
 <p align="left">
-  <span>React
+  <span style="margin-right: 5px;">React
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
     </span>
-    <span>Next
+    <span  style="margin-right: 5px;">Next
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
       </span>
-    <span>Javascript
+    <span  style="margin-right: 5px;">Javascript
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
       </span>
     <span>Typescrip
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
       </span>
-    <span>Tailwind Css
+    <span  style="margin-right: 5px;">Tailwind Css
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
       </span>
     <span>HTML5
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
       </span>
-    <span>css3
+    <span  style="margin-right: 5px;">css3
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
       </span>
-    <span>Sass
+    <span  style="margin-right: 5px;">Sass
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" />
       </span>
 </p>
