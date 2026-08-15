@@ -89,17 +89,18 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-### 📊 GitHub Stats
-
-
+### 📊 GitHub Activity
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uniqueweb1&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniqueweb1&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+</p>
 
-  <img src="https://streak-stats.demolab.com?user=uniqueweb1&theme=radical&hide_border=true" alt="GitHub Streak" />
+### 🏆 Achievements & Streaks
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uniqueweb1&theme=tokyonight&no-frame=true&margin-w=4" alt="Trophies" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uniqueweb1&theme=radical" alt="GitHub Stats Details" />
+  <img src="https://streak-stats.demolab.com?user=uniqueweb1&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ### 📈 GitHub Metrics
