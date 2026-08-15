@@ -91,7 +91,6 @@
 ---
 ### 📊 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uniqueweb1&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniqueweb1&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
 </p>
 
