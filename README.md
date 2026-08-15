@@ -36,65 +36,104 @@
 ### 💻 Tech Stack & Tools
 
 #### **Frontend Development**
-<div align="left">
-      <p style="margin-right: 15px;">React
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-    </p>
-    <p>Next
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-      </p>
-    <p>Javascript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      </p>
-    <p">Typescript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-      </p>
-    <p>Tailwind Css
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
-      </p>
-    <p>HTML5
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-      </p>
-    <p>css3
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-      </p>
-    <p>Sass
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" />
-      </p>
-</div>
+<table>
+  <tr>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" /><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" /><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" /><br/>
+      <sub><b>Sass</b></sub>
+    </td>
+  </tr>
+</table>
 
 #### **Backend Development**
-<div align="left">
-    <p>NodeJS</p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-    <p>Express js</p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
-    <p>Prisma</p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js" /><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" /><br/>
+      <sub><b>Prisma</b></sub>
+    </td>
+  </tr>
+</table>
 
 #### **Databases (SQL & NoSQL)**
-<div align="left">
-    <p>PostgreSQL</p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-    <span>MongoDB</span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-    <p>MySQL</p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 #### **Tools, Testing & DevOps**
-<div align="left">
-    <p>GitHub</p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-    <p>Postman</p>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
-    <p>Linux</p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-    <p>AWS</p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="85">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" /><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" /><br/>
+      <sub><b>AWS</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
