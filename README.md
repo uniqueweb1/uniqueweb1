@@ -96,12 +96,17 @@
 
 <p align="center">
 
-
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white style="margin-bottom: 15px; height: auto; width: auto;" />
-
-
   <img src="https://streak-stats.demolab.com?user=uniqueweb1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uniqueweb1&theme=radical" alt="GitHub Stats Details" />
+</p>
+
+### 📈 GitHub Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uniqueweb1&theme=tokyonight" alt="Summary Card" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uniqueweb1&theme=tokyonight" width="48%" alt="Commit Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uniqueweb1&theme=tokyonight" width="48%" alt="Stats Card" />
 </p>
