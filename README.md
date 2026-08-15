@@ -37,22 +37,30 @@
 
 #### **Frontend Development**
 <p align="left">
-  <span>React</span>
+  <span>React
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-    <span>Next</span>
+    </span>
+    <span>Next
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-    <span>Javascript</span>
+      </span>
+    <span>Javascript
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-    <span>Typescript</span>
+      </span>
+    <span>Typescrip
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-    <span>Tailwind Css</span>
+      </span>
+    <span>Tailwind Css
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
-    <span>HTML5</span>
+      </span>
+    <span>HTML5
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-    <span>css3</span>
+      </span>
+    <span>css3
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-    <span>Sass</span>
+      </span>
+    <span>Sass
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" />
+      </span>
 </p>
 
 #### **Backend Development**
@@ -89,12 +97,6 @@
 </p>
 
 ---
-### 📊 GitHub Activity & Achievements
-<p align="center">
-  <img src="https://img.shields.io/github/followers/uniqueweb1?label=Followers&style=for-the-badge&color=2563eb" alt="Followers" />
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome" />
-  <img src="https://img.shields.io/github/repo-size/uniqueweb1/uniqueweb1?label=Profile%20Repo&style=for-the-badge&color=0f172a" alt="Repo Size" />
-</p>
 
 ### 📈 GitHub Metrics
 <p align="center">
@@ -103,4 +105,11 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uniqueweb1&theme=tokyonight" width="48%" alt="Commit Langs" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uniqueweb1&theme=tokyonight" width="48%" alt="Stats Card" />
+</p>
+
+### 📊 GitHub Activity & Achievements
+<p align="center">
+  <img src="https://img.shields.io/github/followers/uniqueweb1?label=Followers&style=for-the-badge&color=2563eb" alt="Followers" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome" />
+  <img src="https://img.shields.io/github/repo-size/uniqueweb1/uniqueweb1?label=Profile%20Repo&style=for-the-badge&color=0f172a" alt="Repo Size" />
 </p>
