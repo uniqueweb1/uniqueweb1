@@ -106,6 +106,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br/>
       <sub><b>MySQL</b></sub>
     </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="NoSQL" /><br/>
+      <sub><b>NoSQL</b></sub>
+    </td>
   </tr>
 </table>
 
