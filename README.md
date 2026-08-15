@@ -1,3 +1,8 @@
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="center" />
+
+
+
+<div align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; margin-left: 0px;margin-right: 0px;" /> </div>
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; margin: 0 auto;" />
 </div>
