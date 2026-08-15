@@ -92,14 +92,14 @@
 
 ### 📊 GitHub Stats
 ### 📊 GitHub Stats
-<a href="https://github.com/https://github.com/uniqueweb1" target="_blank">
-
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white style="margin-bottom: 15px; height: auto; width: auto;" />
-
-</a>
 
 
 <p align="center">
+
+
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white style="margin-bottom: 15px; height: auto; width: auto;" />
+
+
   <img src="https://streak-stats.demolab.com?user=uniqueweb1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
