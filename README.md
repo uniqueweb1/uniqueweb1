@@ -81,6 +81,10 @@
       <sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="85">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js" /><br/>
       <sub><b>Express.js</b></sub>
     </td>
