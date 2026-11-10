@@ -114,6 +114,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="NoSQL" /><br/>
       <sub><b>NoSQL</b></sub>
     </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" /><br/>
+      <sub><b>Supabase</b></sub>
+    </td>
   </tr>
 </table>
 
